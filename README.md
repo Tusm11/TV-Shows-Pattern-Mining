@@ -55,7 +55,3 @@ The project reveals hidden patterns in TV viewing, groups commonly watched shows
 ## License
 
 This project is open for educational and non-commercial use.
-
-***
-
-Feel free to edit to match your style, add author names, or include example screenshots!
